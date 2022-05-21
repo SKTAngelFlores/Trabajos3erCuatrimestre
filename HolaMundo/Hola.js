@@ -1,0 +1,1 @@
+Gconsole.log("Hola Mundo");
